@@ -10,12 +10,12 @@ import Home from "../Pages/Home";
     {
       path: "/",
       element: <Main></Main>,
-      children: [
+   /*    children: [
         {
           path: '/',
           element: <Home></Home>,
         },
-      ],
+      ], */
     },
   ]);
 
